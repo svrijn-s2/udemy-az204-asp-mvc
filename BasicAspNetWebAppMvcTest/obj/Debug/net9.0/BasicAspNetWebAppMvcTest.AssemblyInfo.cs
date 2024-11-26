@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasicAspNetWebAppMvcTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3486d8cf882bbcd666e4639ebd0f11e3f31c6014")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e31e4a76e9c003c657789a1be2b08c60a6f7ab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasicAspNetWebAppMvcTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasicAspNetWebAppMvcTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
